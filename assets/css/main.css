@@ -80,7 +80,9 @@ input, select, textarea {
 		max-width: 100%;
 		overflow-x: hidden;
 	}
-	  
+	html {
+		overflow-x: initial !important;
+	  }
 
 	body {
 		-ms-overflow-style: scrollbar;
