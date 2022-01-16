@@ -169,7 +169,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #ffffff;
+		color: #3fa20d;
 		font-weight: bold;
 	}
 
@@ -226,7 +226,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.1em;
+		font-size: 1.5em;
 	}
 
 	h4 {
@@ -252,8 +252,13 @@ input, select, textarea {
 		}
 
 		h3 {
+			display: inline;
 			font-size: 1em;
+			
+			
 		}
+		
+	
 
 		h4 {
 			font-size: 0.8em;
@@ -3255,7 +3260,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #1e1e20;
+			background-color: #191919;
 		}
 
 		.wrapper.style2-alt {
@@ -3948,13 +3953,13 @@ input, select, textarea {
 		  .layers::before {
 			top: 10px;
 			left: 15px;
-			color: #e0287d;
+			color: #00932a;
 		  }
 		  
 		  .layers::after {
 			top: 5px;
 			left: -10px;
-			color: #1bc7fb;
+			color: #008c38;
 		  }
 		  
 		  .single-path {
@@ -4345,7 +4350,7 @@ input, select, textarea {
 		  @keyframes font {
 			0% {
 			  font-weight: 100;
-			  color: #e0287d;
+			  color: #291920;
 			  filter: blur(3px);
 			}
 		  
@@ -4401,9 +4406,14 @@ input, select, textarea {
 			right: 0;
 			bottom: 0;
 			opacity: 0.5;
-			filter: blur(5px);
-			background: url(https://media.istockphoto.com/photos/unique-design-abstract-digital-pixel-noise-glitch-error-video-damage-picture-id890862784?b=1&k=20&m=890862784&s=170667a&w=0&h=-apaNGnwK34XgcI0z5z453Aijtbyvm3mC-gYSfqeJwc=)
+			filter: blur(2px);
+			background: url(https://cdn.wallpapersafari.com/79/88/PR5oEU.jpeg)
 			  center no-repeat;
 			background-size: cover;
 		  }
 		  
+		  .responsive {
+			max-width: 100%;
+			height: auto;
+			text-align: center;
+		  }
