@@ -122,7 +122,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #30d3228c;
+		color: rgb(255, 255, 255);
 		font-family: 'Courier New', monospace;
 		font-size: 16.5pt;
 		font-weight: normal;
@@ -169,7 +169,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #3fa20d;
+		color: #ffffff;
 		font-weight: bold;
 	}
 
@@ -182,7 +182,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #30d3228c;
+		color: #ffffff;
 	
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -222,7 +222,7 @@ input, select, textarea {
 			}
 
 	h2 {
-		font-size: 1.75em;
+		font-size: 2em;
 	}
 
 	h3 {
@@ -3925,7 +3925,7 @@ input, select, textarea {
 			font-size: clamp(40px, 10vw, 100px);
 			line-height: 1;
 			display: inline-block;
-			color: rgb(22, 112, 0);
+			color: rgb(248, 255, 247);
 			z-index: 2;
 			letter-spacing: 10px;
 		  
@@ -3953,7 +3953,7 @@ input, select, textarea {
 		  .layers::before {
 			top: 10px;
 			left: 15px;
-			color: #00932a;
+			color: #ffffff;
 		  }
 		  
 		  .layers::after {
